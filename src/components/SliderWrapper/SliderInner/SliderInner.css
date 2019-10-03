@@ -1,0 +1,124 @@
+.slider {
+  width: 100vw;
+  background-color: #f8f8f8;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.slider::after {
+  content: '';
+  width: 173px;
+  height: 300px;
+  background: #f0f0f0;
+  border-radius: 5px;
+  box-shadow: 10px 10px 20px #fff;
+  transform: rotate(255deg);
+  position: absolute;
+  bottom: 28%;
+  left: -65%;
+}
+
+.slider::before {
+  content: '';
+  width: 170px;
+  height: 300px;
+  background: #f0f0f0;
+  border-radius: 5px;
+  box-shadow: 10px 10px 20px #fff;
+  transform: rotate(255deg);
+  position: absolute;
+  bottom: 5%;
+  left: 13%;
+}
+
+.slider__title {
+  font-weight: normal;
+  color: #009ee2;
+  font-size: 34px;
+  text-align: center;
+  margin: 35px 0 28px;
+}
+
+figure {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+figcaption {
+  margin: 15px 20px 28px;
+  text-align: center;
+  font-size: 20px;
+  line-height: 28px;
+  z-index: 99;
+}
+.cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.card {
+  width: 100px;
+  height: 155px;
+  margin-right: 25px;
+  color: #fff;
+  background: linear-gradient(#f1007b, #07b4ff);
+  border-radius: 5px;
+  box-shadow: -10px -10px 20px rgba(0, 0, 0, 0.1);
+  transform: rotate(-105deg);
+  z-index: 999;
+}
+
+.card-behind {
+  width: 90px;
+  height: 160px;
+  background: linear-gradient(#f1007b, #009ee2);
+  z-index: 998;
+}
+
+.card__info {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 52%;
+  right: -12%;
+  transform: rotate(90deg);
+}
+
+.info-behind {
+  right: -15%;
+  top: 53%;
+}
+
+.card__size {
+  text-align: end;
+  font-size: 11px;
+}
+
+.card__card-price {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 48%;
+  right: 22%;
+  transform: rotate(90deg);
+}
+
+.price-behind {
+  top: 52%;
+}
+
+.card__quantity {
+  font-size: 9px;
+  text-align: end;
+}
+
+.card__price {
+  font-weight: bold;
+  font-size: 14px;
+  text-align: end;
+}

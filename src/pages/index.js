@@ -1,9 +1,11 @@
-import React from "react"
+import React from 'react';
+import SliderWrapper from '../components/SliderWrapper/SliderWrapper';
+import Layout from '../components/Layout/Layout';
 
 const IndexPage = () => (
-  <>
-    <h1>Hello World</h1>
-  </>
-)
+  <Layout>
+    <SliderWrapper />
+  </Layout>
+);
 
-export default IndexPage
+export default IndexPage;
