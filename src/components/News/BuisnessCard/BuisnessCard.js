@@ -11,7 +11,9 @@ const BuisnessCard = () => (
         <Icon className="icon__svg buisness-card-icon" />
       </div>
 
-      <figcaption className="icon__title">Wizytówki</figcaption>
+      <figcaption className="icon__title buisness-card-title">
+        Wizytówki
+      </figcaption>
     </figure>
   </section>
 );
