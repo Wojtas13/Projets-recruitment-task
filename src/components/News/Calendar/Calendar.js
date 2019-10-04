@@ -1,6 +1,8 @@
 import React from 'react';
+
+import Icon from '../../../assets/Calendar.svg';
+
 import './Calendar.css';
-import Icon from '../../assets/Calendar.svg';
 
 const Calendar = () => (
   <section className="wrapper">
@@ -8,6 +10,7 @@ const Calendar = () => (
       <div className="icon__wrapper banner">
         <Icon className="icon__svg banner-icon" />
       </div>
+
       <figcaption className="icon__title">Calendarze</figcaption>
     </figure>
   </section>

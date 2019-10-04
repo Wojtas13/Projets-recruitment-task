@@ -1,6 +1,8 @@
 import React from 'react';
+
+import Stickers from '../../../assets/Stickers.svg';
+
 import './Sticker.css';
-import Stickers from '../../assets/Stickers.svg';
 
 const Sticker = () => (
   <section className="wrapper">
@@ -8,6 +10,7 @@ const Sticker = () => (
       <div className="icon__wrapper sticker">
         <Stickers className="sticker-icons" />
       </div>
+
       <figcaption className="icon__title">Naklejki</figcaption>
     </figure>
   </section>
