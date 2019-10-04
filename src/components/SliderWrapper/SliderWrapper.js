@@ -19,6 +19,7 @@ class SliderWrapper extends React.Component {
       <>
         <Slider {...settings}>
           <SliderInner />
+          <SliderInner />
         </Slider>
       </>
     );
