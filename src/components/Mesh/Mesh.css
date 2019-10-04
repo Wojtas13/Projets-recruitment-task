@@ -1,0 +1,6 @@
+.mesh {
+  position: absolute;
+  top: 0%;
+  left: -20%;
+  transform: rotate(105deg);
+}
