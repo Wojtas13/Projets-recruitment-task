@@ -11,17 +11,21 @@ class SliderWrapper extends React.Component {
     var settings = {
       dots: false,
       infinite: true,
-      speed: 500,
+      speed: 1500,
       slidesToShow: 1,
       slidesToScroll: 1,
+      swipe: true,
+      autoplay: true,
+      autoplaySpeed: 5000,
+      pauseOnFocus: true,
     };
     return (
-      <>
+      <div className="container">
         <Slider {...settings}>
           <SliderInner />
           <SliderInner />
         </Slider>
-      </>
+      </div>
     );
   }
 }
