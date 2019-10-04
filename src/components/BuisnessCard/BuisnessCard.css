@@ -1,0 +1,10 @@
+.buisness-card {
+  width: 160px;
+  height: 100px;
+  z-index: 999;
+}
+
+.buisness-card::before {
+  top: 9%;
+  z-index: -1;
+}

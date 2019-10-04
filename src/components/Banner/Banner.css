@@ -1,0 +1,16 @@
+.banner {
+  height: 160px;
+  width: 130px;
+  transform: rotate(75deg);
+  background: linear-gradient(#f1007b, #009ee2);
+}
+
+.banner::before {
+  left: 7%;
+  box-shadow: 5px 1px 10px 0px rgba(0, 0, 0, 0.1);
+}
+
+.banner-icon {
+  transform: rotate(-75deg);
+  width: 170px;
+}
