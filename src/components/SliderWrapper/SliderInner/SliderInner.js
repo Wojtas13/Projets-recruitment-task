@@ -18,9 +18,9 @@ const SliderInner = () => (
                 </span>
                 <span className="card__size">85x55 mm</span>
               </div>
-              <div className="card__card-price">
+              <div className="card__price">
                 <span className="card__quantity">250 szt.</span>
-                <span className="card__price">
+                <span className="card__price-price">
                   <strong>57,99 zł</strong>
                 </span>
               </div>
@@ -32,9 +32,9 @@ const SliderInner = () => (
                 </span>
                 <span className="card__size">90x50 mm</span>
               </div>
-              <div className="card__card-price price-behind">
+              <div className="card__price price-behind">
                 <span className="card__quantity">250 szt.</span>
-                <span className="card__price">
+                <span className="card__price-price">
                   <strong>57,99 zł</strong>
                 </span>
               </div>

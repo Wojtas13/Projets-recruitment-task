@@ -6,12 +6,22 @@
   align-items: center;
   background-color: #fafafa;
   margin-top: 20px;
+  position: relative;
+  border-radius: 5px;
+  border: 1px solid transparent;
 }
 
-.wrapper:hover {
-  border: 3px solid transparent;
-  border-image: linear-gradient(#009ee2, #ff0082);
-  border-image-slice: 1;
+.wrapper:hover::after {
+  content: '';
+  position: absolute;
+  top: -4px;
+  left: -4px;
+  right: -4px;
+  bottom: -4px;
+  background: linear-gradient(#009ee2, #ff0082);
+  border-radius: 6px;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.1);
+  z-index: -1;
 }
 
 .wrapper:last-child {
