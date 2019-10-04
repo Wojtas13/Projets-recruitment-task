@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="158.9" height="159.6" viewBox="0 0 158.9 159.6">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.399" y1="-0.014" x2="1.399" y2="-0.014" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#009ee2"/>
+      <stop offset="1" stop-color="#f1007b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.439" y1="0.289" x2="1.439" y2="0.289" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.479" y1="0.589" x2="1.479" y2="0.589" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="0.519" y1="0.893" x2="1.519" y2="0.893" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="0.089" y1="0.026" x2="1.089" y2="0.026" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="0.129" y1="0.329" x2="1.129" y2="0.329" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-7" x1="0.169" y1="0.633" x2="1.169" y2="0.633" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-8" x1="0.209" y1="0.933" x2="1.209" y2="0.933" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-9" x1="-0.215" y1="0.066" x2="0.785" y2="0.066" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-10" x1="-0.175" y1="0.369" x2="0.825" y2="0.369" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-11" x1="-0.135" y1="0.673" x2="0.865" y2="0.673" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-12" x1="-0.095" y1="0.973" x2="0.905" y2="0.973" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-13" x1="-0.515" y1="0.106" x2="0.485" y2="0.106" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-14" x1="-0.475" y1="0.409" x2="0.525" y2="0.409" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-15" x1="-0.435" y1="0.713" x2="0.565" y2="0.713" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-16" x1="-0.398" y1="1.013" x2="0.602" y2="1.013" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Group_451" data-name="Group 451" transform="translate(-8.3 -8.1)">
+    <circle id="Ellipse_55" data-name="Ellipse 55" cx="15" cy="15" r="15" transform="translate(8.3 35.3)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_56" data-name="Ellipse 56" cx="15" cy="15" r="15" transform="translate(42.1 26.2)" fill="url(#linear-gradient-2)"/>
+    <circle id="Ellipse_57" data-name="Ellipse 57" cx="15" cy="15" r="15" transform="translate(75.9 17.2)" fill="url(#linear-gradient-3)"/>
+    <circle id="Ellipse_58" data-name="Ellipse 58" cx="15" cy="15" r="15" transform="translate(109.7 8.1)" fill="url(#linear-gradient-4)"/>
+    <circle id="Ellipse_59" data-name="Ellipse 59" cx="15" cy="15" r="15" transform="translate(17.6 70.1)" fill="url(#linear-gradient-5)"/>
+    <circle id="Ellipse_60" data-name="Ellipse 60" cx="15" cy="15" r="15" transform="translate(51.4 61)" fill="url(#linear-gradient-6)"/>
+    <circle id="Ellipse_61" data-name="Ellipse 61" cx="15" cy="15" r="15" transform="translate(85.2 51.9)" fill="url(#linear-gradient-7)"/>
+    <circle id="Ellipse_62" data-name="Ellipse 62" cx="15" cy="15" r="15" transform="translate(119 42.9)" fill="url(#linear-gradient-8)"/>
+    <circle id="Ellipse_63" data-name="Ellipse 63" cx="15" cy="15" r="15" transform="translate(26.7 103.9)" fill="url(#linear-gradient-9)"/>
+    <circle id="Ellipse_64" data-name="Ellipse 64" cx="15" cy="15" r="15" transform="translate(60.5 94.8)" fill="url(#linear-gradient-10)"/>
+    <circle id="Ellipse_65" data-name="Ellipse 65" cx="15" cy="15" r="15" transform="translate(94.3 85.7)" fill="url(#linear-gradient-11)"/>
+    <circle id="Ellipse_66" data-name="Ellipse 66" cx="15" cy="15" r="15" transform="translate(128.1 76.7)" fill="url(#linear-gradient-12)"/>
+    <circle id="Ellipse_67" data-name="Ellipse 67" cx="15" cy="15" r="15" transform="translate(35.7 137.7)" fill="url(#linear-gradient-13)"/>
+    <circle id="Ellipse_68" data-name="Ellipse 68" cx="15" cy="15" r="15" transform="translate(69.5 128.6)" fill="url(#linear-gradient-14)"/>
+    <circle id="Ellipse_69" data-name="Ellipse 69" cx="15" cy="15" r="15" transform="translate(103.3 119.5)" fill="url(#linear-gradient-15)"/>
+    <circle id="Ellipse_70" data-name="Ellipse 70" cx="15" cy="15" r="15" transform="translate(137.2 110.5)" fill="url(#linear-gradient-16)"/>
+  </g>
+</svg>
