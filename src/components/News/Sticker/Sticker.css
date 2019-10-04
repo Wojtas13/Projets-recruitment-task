@@ -3,6 +3,7 @@
   height: 176px;
   background: #fff;
 }
+
 .sticker::before {
   width: 90%;
   height: 90%;
